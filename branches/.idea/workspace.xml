@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ef4bd2b-6a1b-4681-8a88-e16fcc1716ce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../variables/target/debug/deps/variables-0a6516bc07ae3636" beforeDir="false" afterPath="$PROJECT_DIR$/../variables/target/debug/deps/variables-0a6516bc07ae3636" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/target/debug/deps/variables-0a6516bc07ae3636.15m9xwg59mls9bav.rcgu.o" beforeDir="false" afterPath="$PROJECT_DIR$/../variables/target/debug/deps/variables-0a6516bc07ae3636.15m9xwg59mls9bav.rcgu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/target/debug/deps/variables-0a6516bc07ae3636.d1k0ttoiesazmg1.rcgu.o" beforeDir="false" afterPath="$PROJECT_DIR$/../variables/target/debug/deps/variables-0a6516bc07ae3636.d1k0ttoiesazmg1.rcgu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/target/debug/incremental/variables-1myprl0encdo6/s-grm29qa3x5-hoytjd-39xa62nshh7qhao685v4wexm6/15m9xwg59mls9bav.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/target/debug/incremental/variables-1myprl0encdo6/s-grm29qa3x5-hoytjd-39xa62nshh7qhao685v4wexm6/2pwvff3x0grsgwy0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/target/debug/incremental/variables-1myprl0encdo6/s-grm29qa3x5-hoytjd-39xa62nshh7qhao685v4wexm6/2rz9ln271vqp366w.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/target/debug/incremental/variables-1myprl0encdo6/s-grm29qa3x5-hoytjd-39xa62nshh7qhao685v4wexm6/2s6v2k7qcpogrpfk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/target/debug/incremental/variables-1myprl0encdo6/s-grm29qa3x5-hoytjd-39xa62nshh7qhao685v4wexm6/59rzljjijsyc3ttg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/target/debug/incremental/variables-1myprl0encdo6/s-grm29qa3x5-hoytjd-39xa62nshh7qhao685v4wexm6/d1k0ttoiesazmg1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/target/debug/incremental/variables-1myprl0encdo6/s-grm29qa3x5-hoytjd-39xa62nshh7qhao685v4wexm6/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/target/debug/incremental/variables-1myprl0encdo6/s-grm29qa3x5-hoytjd-39xa62nshh7qhao685v4wexm6/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/target/debug/incremental/variables-1myprl0encdo6/s-grm29qa3x5-hoytjd-39xa62nshh7qhao685v4wexm6/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/target/debug/incremental/variables-1myprl0encdo6/s-grm29qa3x5-hoytjd.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/target/debug/variables" beforeDir="false" afterPath="$PROJECT_DIR$/../variables/target/debug/variables" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="7xofblc2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2ZhA5neYWhmI8f7P60dVeeeVAxM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/shiz/RustroverProjects/branches",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Cargo.Run branches">
+    <configuration name="Run branches" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package branches --bin branches" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test branches" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="test --workspace" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ef4bd2b-6a1b-4681-8a88-e16fcc1716ce" name="Changes" comment="" />
+      <created>1702863756235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702863756235</updated>
+      <workItem from="1702863757264" duration="763000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
