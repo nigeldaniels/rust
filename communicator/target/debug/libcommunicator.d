@@ -1,0 +1,1 @@
+/Users/shiz/RustroverProjects/communicator/target/debug/libcommunicator.rlib: /Users/shiz/RustroverProjects/communicator/src/client.rs /Users/shiz/RustroverProjects/communicator/src/lib.rs /Users/shiz/RustroverProjects/communicator/src/network/mod.rs /Users/shiz/RustroverProjects/communicator/src/network/server.rs
